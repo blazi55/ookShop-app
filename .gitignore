@@ -1,1 +1,8 @@
 /.idea/
+**/target/
+**/node_modules/
+**/build/
+**/.env
+**/.env.local
+*.log
+.DS_Store

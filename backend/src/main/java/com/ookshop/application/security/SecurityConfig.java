@@ -29,6 +29,7 @@ public class SecurityConfig {
 				.and()
 				.authorizeHttpRequests(requests -> requests
 						.requestMatchers(HttpMethod.POST, "/userOokShop/login", "/userOokShop/register").permitAll()
+						.requestMatchers(HttpMethod.GET, "/bookOokShop/**").permitAll()
 						.anyRequest().authenticated())
 		;
 		return http.build();

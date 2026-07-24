@@ -1,0 +1,60 @@
+{
+  "brand": "ookShop",
+  "nav": {
+    "catalog": "Catalog",
+    "cart": "Cart",
+    "login": "Sign in",
+    "register": "Register",
+    "logout": "Sign out"
+  },
+  "hero": {
+    "title": "A bookstore within reach",
+    "subtitle": "Carefully chosen titles. Read more, carry less."
+  },
+  "catalog": {
+    "heading": "Catalog",
+    "loading": "Loading books…",
+    "error": "Could not reach the server — showing the local catalog.",
+    "empty": "No books in the catalog.",
+    "addToCart": "Add to cart",
+    "added": "Added",
+    "price": "Price",
+    "quantity": "Qty"
+  },
+  "cart": {
+    "heading": "Your cart",
+    "empty": "Your cart is empty.",
+    "emptyHint": "Browse the catalog and pick something to read.",
+    "browse": "Go to catalog",
+    "item": "Item",
+    "quantity": "Qty",
+    "price": "Price",
+    "total": "Total",
+    "remove": "Remove",
+    "checkout": "Place order",
+    "checkoutSuccess": "Thank you! Your order has been received.",
+    "loginRequired": "Sign in to place an order."
+  },
+  "auth": {
+    "loginTitle": "Sign in",
+    "registerTitle": "Create an account",
+    "login": "Username",
+    "password": "Password",
+    "fullName": "Full name",
+    "email": "Email",
+    "submitLogin": "Sign in",
+    "submitRegister": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "error": "Could not sign in. Check your credentials.",
+    "registerError": "Registration failed. Please try again.",
+    "welcome": "Hello, {{name}}"
+  },
+  "footer": {
+    "tagline": "ookShop — your independent online bookstore."
+  },
+  "lang": {
+    "pl": "PL",
+    "en": "EN"
+  }
+}

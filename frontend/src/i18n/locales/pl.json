@@ -1,0 +1,60 @@
+{
+  "brand": "ookShop",
+  "nav": {
+    "catalog": "Katalog",
+    "cart": "Koszyk",
+    "login": "Zaloguj",
+    "register": "Rejestracja",
+    "logout": "Wyloguj"
+  },
+  "hero": {
+    "title": "Księgarnia na wyciągnięcie ręki",
+    "subtitle": "Starannie wybrane tytuły. Czytaj więcej, noś mniej."
+  },
+  "catalog": {
+    "heading": "Katalog",
+    "loading": "Ładowanie książek…",
+    "error": "Nie udało się połączyć z serwerem — pokazujemy lokalny katalog.",
+    "empty": "Brak książek w katalogu.",
+    "addToCart": "Do koszyka",
+    "added": "Dodano",
+    "price": "Cena",
+    "quantity": "Ilość"
+  },
+  "cart": {
+    "heading": "Twój koszyk",
+    "empty": "Koszyk jest pusty.",
+    "emptyHint": "Przejrzyj katalog i dodaj coś do czytania.",
+    "browse": "Przejdź do katalogu",
+    "item": "Pozycja",
+    "quantity": "Ilość",
+    "price": "Cena",
+    "total": "Razem",
+    "remove": "Usuń",
+    "checkout": "Zamów",
+    "checkoutSuccess": "Dziękujemy! Zamówienie zostało przyjęte.",
+    "loginRequired": "Zaloguj się, aby złożyć zamówienie."
+  },
+  "auth": {
+    "loginTitle": "Zaloguj się",
+    "registerTitle": "Utwórz konto",
+    "login": "Login",
+    "password": "Hasło",
+    "fullName": "Imię i nazwisko",
+    "email": "E-mail",
+    "submitLogin": "Zaloguj",
+    "submitRegister": "Zarejestruj",
+    "noAccount": "Nie masz konta?",
+    "hasAccount": "Masz już konto?",
+    "error": "Nie udało się zalogować. Sprawdź dane.",
+    "registerError": "Rejestracja nie powiodła się. Spróbuj ponownie.",
+    "welcome": "Witaj, {{name}}"
+  },
+  "footer": {
+    "tagline": "ookShop — Twoja niezależna księgarnia online."
+  },
+  "lang": {
+    "pl": "PL",
+    "en": "EN"
+  }
+}
